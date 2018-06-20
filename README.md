@@ -10,7 +10,17 @@ The work I do is owned by my current employer so this version of the site and co
 ### Screenshots
 Here's what the template looks like live. Again, using Lorem Ipsum to protect my employer's content.
 
-![Screenshot of template](https://github.com/OptikRise/simple-reading-template/blob/master/SRT-Screenshot.png)
+### The framework closed
+
+![Screenshot of template](https://github.com/OptikRise/bs-template/blob/master/self-paced-1.png)
+
+### A section using a carousel
+
+![Screenshot of template](https://github.com/OptikRise/bs-template/blob/master/self-paced-2.png)
+
+### A section not using a carousel
+
+![Screenshot of template](https://github.com/OptikRise/bs-template/blob/master/self-paced-3.png)
 
 ## Credit
 Ryan Madden designed this template.
