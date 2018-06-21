@@ -23,5 +23,5 @@ Here's what the template looks like live. Again, using Lorem Ipsum to protect my
 ![Screenshot of template](https://github.com/OptikRise/bs-template/blob/master/self-paced-3.png)
 
 ## Credit
-Ryan Madden designed this template.
-Damion Armentrout later helped me create this as a WordPress template.
+Designed by Ryan Madden.
+Assistance with converting this to a WordPress template provided by Damion Armentrout.
