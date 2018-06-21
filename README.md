@@ -24,4 +24,5 @@ Here's what the template looks like live. Again, using Lorem Ipsum to protect my
 
 ## Credit
 Designed by Ryan Madden.
+
 Assistance with converting this to a WordPress template provided by Damion Armentrout.
